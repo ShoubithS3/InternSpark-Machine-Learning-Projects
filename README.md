@@ -4,7 +4,7 @@ A comprehensive collection of machine learning project tasks—including Iris Cl
 
 Welcome to my unified portfolio repository containing all machine learning project tasks completed as part of the InternSpark internship.
 
-## 🚀 Projects Included
+##  Projects Included
 
 * **Task 1: Iris Flower Classification**
   * **Objective:** Perform Exploratory Data Analysis (EDA) and build classification models to categorize Iris flower species: 
